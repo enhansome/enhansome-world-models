@@ -1,7 +1,719 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "@bilawalsidhu's YouTube channel covers a lot about the landscape of world models and how technology is evolving.\nThe following are organizations actively involved in the development of world models\nEmerging Player\nFrameworks & Tools:\nTalks, Blogs & Podcasts\nInteresting Discussions on X:\nBenchmarks & Evaluations\nThe following is a curated list of research, projects, and works related to the development of world models.\nFeel free to open a PR and contribute!Join the discussion at r/world_model on Reddit.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "knightnemo/Awesome-World-Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1087207313,
+            "language": null,
+            "last_commit": "2026-08-23T20:34:02Z",
+            "owner": "knightnemo",
+            "repo": "Awesome-World-Models",
+            "stars": 3336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LMD0311/Awesome-World-Model",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738046322,
+            "language": null,
+            "last_commit": "2026-08-17T08:52:48Z",
+            "owner": "LMD0311",
+            "repo": "Awesome-World-Model",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leofan90/Awesome-World-Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 885743839,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:40:48Z",
+            "owner": "leofan90",
+            "repo": "Awesome-World-Models",
+            "stars": 1979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "worldbench/awesome-3d-4d-world-models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005844732,
+            "language": "HTML",
+            "last_commit": "2026-08-21T06:18:22Z",
+            "owner": "worldbench",
+            "repo": "awesome-3d-4d-world-models",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Minimalist, Batteries-included Repository for Advancing World Model Science",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1225594874,
+            "language": "Python",
+            "last_commit": "2026-06-15T23:17:13Z",
+            "owner": "simchowitzlabpublic",
+            "repo": "nano-world-model",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158444028,
+            "language": "TeX",
+            "last_commit": "2026-08-13T03:47:20Z",
+            "owner": "gracezhao1997",
+            "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Li-Zn-H/AwesomeWorldModels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963308889,
+            "language": null,
+            "last_commit": "2026-08-13T05:07:05Z",
+            "owner": "Li-Zn-H",
+            "repo": "AwesomeWorldModels",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyworkAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 978649191,
+            "language": "Python",
+            "last_commit": "2026-03-30T06:32:00Z",
+            "owner": "SkyworkAI",
+            "repo": "Matrix-Game",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Platform for reproducible world model research and evaluation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1009365699,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:53:31Z",
+            "owner": "galilai-group",
+            "repo": "stable-worldmodel",
+            "stars": 2145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unified Codebase for Advanced World Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101358021,
+            "language": "Python",
+            "last_commit": "2026-08-23T13:29:05Z",
+            "owner": "OpenDCAI",
+            "repo": "OpenWorldLib",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Minimal and Elegant Framework & Tutorial for Real-Time Interactive World Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1233530473,
+            "language": "Python",
+            "last_commit": "2026-06-15T12:02:50Z",
+            "owner": "shengshu-ai",
+            "repo": "minWM",
+            "stars": 796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models",
+          "description": "arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1189559177,
+            "language": null,
+            "last_commit": "2026-03-24T13:09:02Z",
+            "owner": "AMAP-ML",
+            "repo": "Omni-WorldBench",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
+          "description": "7th July 2026 ReportCodeTweet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1289821124,
+            "language": "Python",
+            "last_commit": "2026-08-03T10:29:39Z",
+            "owner": "mira-wm",
+            "repo": "mira",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics",
+          "description": "4th June 2026 arXivTweetGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1239947311,
+            "language": "Python",
+            "last_commit": "2026-06-16T17:01:49Z",
+            "owner": "wuzy2115",
+            "repo": "oscar-public",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+          "description": "14th May 2026 CodeTweetPaperBlog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 871368615,
+            "language": "Python",
+            "last_commit": "2026-08-23T10:12:16Z",
+            "owner": "NVlabs",
+            "repo": "Sana",
+            "stars": 8811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+          "description": "20th April 2026 arXivTweetCode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1216131824,
+            "language": "Python",
+            "last_commit": "2026-05-12T11:35:25Z",
+            "owner": "CIntellifusion",
+            "repo": "MultiWorld",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+          "description": "16th April 2026 ReportTweetGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206704534,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:15:12Z",
+            "owner": "Tencent-Hunyuan",
+            "repo": "HY-World-2.0",
+            "stars": 2563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreamX-World: A General-Purpose Interactive World Model",
+          "description": "15th April 2026 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206682004,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:44:41Z",
+            "owner": "AMAP-ML",
+            "repo": "DreamX-World",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyra 2.0: Explorable Generative 3D Worlds",
+          "description": "14th April 2026 arXivWebsiteCode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1053508243,
+            "language": "Python",
+            "last_commit": "2026-07-20T17:07:42Z",
+            "owner": "nv-tlabs",
+            "repo": "lyra",
+            "stars": 2256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zero-shot World Models Are Developmentally Efficient Learners",
+          "description": "11th April 2026 arXivCodeTweet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1210174252,
+            "language": "Python",
+            "last_commit": "2026-07-11T16:17:16Z",
+            "owner": "awwkl",
+            "repo": "ZWM",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens",
+          "description": "6th April 2026 arXivCodeTweet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194059745,
+            "language": "Python",
+            "last_commit": "2026-07-17T19:53:11Z",
+            "owner": "amazon-far",
+            "repo": "deltatok",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Planning with Latent World Models",
+          "description": "3rd April 2026 arXivCodeTweet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176065144,
+            "language": "Python",
+            "last_commit": "2026-05-04T01:19:14Z",
+            "owner": "kevinghst",
+            "repo": "HWM_PLDM",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs",
+          "description": "18th March 2026 arXivCodeWebsite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1182221604,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T10:34:22Z",
+            "owner": "jiangchaokang",
+            "repo": "VectorWorld",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis",
+          "description": "16th March 2026 arXivCodeWebsite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183042183,
+            "language": null,
+            "last_commit": "2026-03-17T03:52:08Z",
+            "owner": "naver-ai",
+            "repo": "seoul-world-model",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+          "description": "13th March 2026 arXivCodeTwitter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1180422552,
+            "language": "Python",
+            "last_commit": "2026-05-26T17:22:05Z",
+            "owner": "lucas-maes",
+            "repo": "le-wm",
+            "stars": 4338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporal Straightening for Latent Planning",
+          "description": "12th March 2026 arXivBlogCode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147380350,
+            "language": "Python",
+            "last_commit": "2026-04-27T06:19:31Z",
+            "owner": "agentic-learning-ai-lab",
+            "repo": "temporal-straightening",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model",
+          "description": "12th March 2026 arXivBlogGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1171261489,
+            "language": "Python",
+            "last_commit": "2026-05-06T09:56:11Z",
+            "owner": "inspatio",
+            "repo": "worldfm",
+            "stars": 829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayWorld: Learning Robot World Models from Autonomous Play",
+          "description": "11th March 2026 arXivCodeTweet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154592844,
+            "language": "Python",
+            "last_commit": "2026-07-30T06:55:06Z",
+            "owner": "irom-princeton",
+            "repo": "open-world",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LATENT PARTICLE WORLD MODELS: SELFSUPERVISED OBJECT-CENTRIC STOCHASTIC DYNAMICS MODELING",
+          "description": "4th March 2026 arXivTweetCode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1166754303,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-19T22:09:50Z",
+            "owner": "taldatech",
+            "repo": "lpwm",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
+          "description": "26th Feb 2026 arXivGithubBlog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161285612,
+            "language": "Python",
+            "last_commit": "2026-03-03T22:32:46Z",
+            "owner": "solaris-wm",
+            "repo": "solaris",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Improving World Modelling with Latent Actions",
+          "description": "15th Feb 2026 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150329904,
+            "language": "Python",
+            "last_commit": "2026-02-05T11:08:50Z",
+            "owner": "yfqiu-nlp",
+            "repo": "swirl",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory",
+          "description": "3rd Feb 2026 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142934108,
+            "language": "Python",
+            "last_commit": "2026-05-04T14:07:30Z",
+            "owner": "MeiGen-AI",
+            "repo": "Infinite-World",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advancing Open-source World Models",
+          "description": "28th Jan 2026 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1143912065,
+            "language": "Python",
+            "last_commit": "2026-07-09T10:39:39Z",
+            "owner": "Robbyant",
+            "repo": "lingbot-world",
+            "stars": 4386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astra : General Interactive World Model With Autoregressive Denoising",
+          "description": "27th Jan 2026 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078008969,
+            "language": "Python",
+            "last_commit": "2026-06-09T17:27:42Z",
+            "owner": "EternalEvan",
+            "repo": "Astra",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation",
+          "description": "7th Jan 2026 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1163614384,
+            "language": "Python",
+            "last_commit": "2026-05-17T21:45:41Z",
+            "owner": "NVlabs",
+            "repo": "PointWorld",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+          "description": "17th December 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1113569067,
+            "language": "Python",
+            "last_commit": "2026-06-10T07:10:23Z",
+            "owner": "Tencent-Hunyuan",
+            "repo": "HY-WorldPlay",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds",
+          "description": "Around December 2025 ReportGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 962236452,
+            "language": "Python",
+            "last_commit": "2026-06-26T00:33:36Z",
+            "owner": "SimWorld-AI",
+            "repo": "SimWorld",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World Models That Know When They Don’t Know: Controllable Video Generation with Calibrated Uncertainty",
+          "description": "5th December 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1110630575,
+            "language": "Python",
+            "last_commit": "2025-12-08T15:54:07Z",
+            "owner": "irom-princeton",
+            "repo": "c-cubed",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RynnVLA-002: A Unified Vision-Language-Action and World Model",
+          "description": "21st Nov 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006839665,
+            "language": "Python",
+            "last_commit": "2025-12-02T10:34:06Z",
+            "owner": "alibaba-damo-academy",
+            "repo": "RynnVLA-002",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emu3.5: Native Multimodal Models are World Learners",
+          "description": "30th Oct 2025 ReportGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1085767146,
+            "language": "Python",
+            "last_commit": "2025-12-30T15:36:41Z",
+            "owner": "baaivision",
+            "repo": "Emu3.5",
+            "stars": 1547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLVR-World: Training World Models with Reinforcement Learning",
+          "description": "25th Oct 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985088554,
+            "language": "Python",
+            "last_commit": "2025-10-28T03:38:29Z",
+            "owner": "thuml",
+            "repo": "RLVR-World",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World-in-World: World Models in a Closed-Loop World",
+          "description": "20th Oct 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077232342,
+            "language": "Python",
+            "last_commit": "2026-04-03T03:46:20Z",
+            "owner": "World-In-World",
+            "repo": "world-in-world",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTRL-WORLD: A CONTROLLABLE GENERATIVE WORLD MODEL FOR ROBOT MANIPULATION",
+          "description": "15th Oct 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1072666451,
+            "language": "Python",
+            "last_commit": "2026-04-08T06:13:40Z",
+            "owner": "Robert-gyj",
+            "repo": "Ctrl-World",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WORLDGYM: WORLD MODEL AS AN ENVIRONMENT FOR POLICY EVALUATION",
+          "description": "30th Sep 2025 arXivGithub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 998613616,
+            "language": "Python",
+            "last_commit": "2025-11-06T18:12:29Z",
+            "owner": "world-model-eval",
+            "repo": "world-model-eval",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model",
+          "description": "18 August 2025 arXivGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 978649191,
+            "language": "Python",
+            "last_commit": "2026-03-30T06:32:00Z",
+            "owner": "SkyworkAI",
+            "repo": "Matrix-Game",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YUME: An Interactive World Generation Model",
+          "description": "23 July 2025 arXivGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1019422022,
+            "language": "Python",
+            "last_commit": "2026-01-14T04:05:11Z",
+            "owner": "stdstu12",
+            "repo": "YUME",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oasis: A Universe in a Transformer",
+          "description": "31 October 2024 Project PageGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 881285345,
+            "language": "Python",
+            "last_commit": "2024-11-08T23:28:40Z",
+            "owner": "etched-ai",
+            "repo": "open-oasis",
+            "stars": 2123
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:21:08.683Z",
+    "last_updated": "2026-08-24T14:29:02.273Z",
     "original_repository": "nik-55/world-models",
     "original_repository_id": 1068932968,
     "original_repository_sha": "80335b12919aec88ab624e398c4c31e622069f62",
