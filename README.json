@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1087207313,
             "language": null,
-            "last_commit": "2026-08-23T20:34:02Z",
+            "last_commit": "2026-08-25T03:36:41Z",
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3336
+            "stars": 3340
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T08:52:48Z",
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2221
+            "stars": 2222
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T09:40:48Z",
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 1979
+            "stars": 1983
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T06:18:22Z",
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T03:47:20Z",
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 695
+            "stars": 694
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T05:07:05Z",
             "owner": "Li-Zn-H",
             "repo": "AwesomeWorldModels",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-18T16:53:31Z",
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2145
+            "stars": 2147
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-23T13:29:05Z",
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 859
+            "stars": 860
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-06-15T12:02:50Z",
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 796
+            "stars": 797
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-23T10:12:16Z",
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8811
+            "stars": 8816
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-12T16:15:12Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2563
+            "stars": 2564
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-20T17:07:42Z",
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2256
+            "stars": 2257
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-03-17T03:52:08Z",
             "owner": "naver-ai",
             "repo": "seoul-world-model",
-            "stars": 626
+            "stars": 627
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-05-26T17:22:05Z",
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4338
+            "stars": 4339
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4386
+            "stars": 4388
           }
         },
         {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:02.273Z",
+    "last_updated": "2026-08-25T06:22:54.133Z",
     "original_repository": "nik-55/world-models",
     "original_repository_id": 1068932968,
     "original_repository_sha": "80335b12919aec88ab624e398c4c31e622069f62",
