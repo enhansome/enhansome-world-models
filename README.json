@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1087207313,
             "language": null,
-            "last_commit": "2026-08-25T03:36:41Z",
+            "last_commit": "2026-08-25T20:15:17Z",
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3342
+            "stars": 3347
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T08:52:48Z",
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2223
+            "stars": 2225
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 885743839,
             "language": "Python",
-            "last_commit": "2026-08-25T08:13:33Z",
+            "last_commit": "2026-08-26T04:12:48Z",
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 1983
+            "stars": 1985
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T06:18:22Z",
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
-            "stars": 968
+            "stars": 970
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2311
+            "stars": 2314
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 1009365699,
             "language": "Python",
-            "last_commit": "2026-08-18T16:53:31Z",
+            "last_commit": "2026-08-25T15:11:30Z",
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2148
+            "stars": 2153
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-23T13:29:05Z",
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 861
+            "stars": 863
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-06-15T12:02:50Z",
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 797
+            "stars": 800
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-03T10:29:39Z",
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 509
+            "stars": 511
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 871368615,
             "language": "Python",
-            "last_commit": "2026-08-23T10:12:16Z",
+            "last_commit": "2026-08-26T07:47:58Z",
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8816
+            "stars": 8825
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-05-12T11:35:25Z",
             "owner": "CIntellifusion",
             "repo": "MultiWorld",
-            "stars": 251
+            "stars": 252
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-12T16:15:12Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2565
+            "stars": 2571
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-20T17:07:42Z",
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2258
+            "stars": 2262
           }
         },
         {
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 1210174252,
             "language": "Python",
-            "last_commit": "2026-07-11T16:17:16Z",
+            "last_commit": "2026-08-25T23:52:47Z",
             "owner": "awwkl",
             "repo": "ZWM",
             "stars": 42
@@ -375,7 +375,7 @@
             "last_commit": "2026-05-26T17:22:05Z",
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4339
+            "stars": 4342
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-03-19T22:09:50Z",
             "owner": "taldatech",
             "repo": "lpwm",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-03-03T22:32:46Z",
             "owner": "solaris-wm",
             "repo": "solaris",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4389
+            "stars": 4392
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-05-17T21:45:41Z",
             "owner": "NVlabs",
             "repo": "PointWorld",
-            "stars": 507
+            "stars": 508
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-06-10T07:10:23Z",
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1584
+            "stars": 1586
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-06-26T00:33:36Z",
             "owner": "SimWorld-AI",
             "repo": "SimWorld",
-            "stars": 757
+            "stars": 758
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-04-08T06:13:40Z",
             "owner": "Robert-gyj",
             "repo": "Ctrl-World",
-            "stars": 555
+            "stars": 556
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-03-30T06:32:00Z",
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2311
+            "stars": 2314
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-01-14T04:05:11Z",
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 683
+            "stars": 684
           }
         },
         {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:04:39.566Z",
+    "last_updated": "2026-08-26T10:17:15.889Z",
     "original_repository": "nik-55/world-models",
     "original_repository_id": 1068932968,
     "original_repository_sha": "80335b12919aec88ab624e398c4c31e622069f62",
