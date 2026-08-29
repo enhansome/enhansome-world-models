@@ -43,10 +43,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-17T08:52:48Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2227,
+            "stars": 2228,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -74,8 +74,8 @@
             "id": 885743839,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T06:06:07Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T08:25:16Z",
+            "open_issues": 0,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
             "stars": 1990,
@@ -108,7 +108,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "3d",
               "3d-generation",
@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 695,
+            "stars": 696,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -316,7 +316,7 @@
             "open_issues": 11,
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 802,
+            "stars": 803,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -358,7 +358,7 @@
             "open_issues": 3,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -400,7 +400,7 @@
             "open_issues": 137,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8881,
+            "stars": 8883,
             "topics": [
               "diffusion",
               "dit",
@@ -491,7 +491,7 @@
             "open_issues": 5,
             "owner": "AMAP-ML",
             "repo": "DreamX-World",
-            "stars": 761,
+            "stars": 762,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -593,7 +593,7 @@
             "open_issues": 4,
             "owner": "kevinghst",
             "repo": "HWM_PLDM",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4397,
+            "stars": 4398,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:46.216Z",
+    "last_updated": "2026-08-29T14:41:02.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
