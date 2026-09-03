@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3376,
+            "stars": 3386,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -74,11 +74,11 @@
             "id": 885743839,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T14:09:22Z",
+            "last_commit": "2026-09-03T02:30:38Z",
             "open_issues": 1,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 1994,
+            "stars": 1996,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -138,11 +138,11 @@
             "id": 1225594874,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-15T23:17:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-02T22:32:52Z",
+            "open_issues": 6,
             "owner": "simchowitzlabpublic",
             "repo": "nano-world-model",
-            "stars": 722,
+            "stars": 724,
             "topics": [
               "diffusion-forcing",
               "diffusion-models",
@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -203,7 +203,7 @@
             "open_issues": 1,
             "owner": "Li-Zn-H",
             "repo": "AwesomeWorldModels",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -221,10 +221,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-30T06:32:00Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2322,
+            "stars": 2323,
             "topics": [
               "genie",
               "interactive-video",
@@ -250,11 +250,11 @@
             "id": 1009365699,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-25T15:11:30Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-02T21:47:53Z",
+            "open_issues": 19,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2169,
+            "stars": 2170,
             "topics": [
               "deep-learning",
               "jepa",
@@ -278,10 +278,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-23T13:29:05Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 864,
+            "stars": 865,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -358,7 +358,7 @@
             "open_issues": 3,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 529,
+            "stars": 530,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -397,10 +397,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:12:35Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 8922,
+            "stars": 8928,
             "topics": [
               "diffusion",
               "dit",
@@ -436,7 +436,7 @@
             "open_issues": 1,
             "owner": "CIntellifusion",
             "repo": "MultiWorld",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "action-conditioned",
               "diffusion-models",
@@ -466,7 +466,7 @@
             "open_issues": 16,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2594,
+            "stars": 2599,
             "topics": [
               "3d",
               "ai",
@@ -512,7 +512,7 @@
             "open_issues": 24,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2275,
+            "stars": 2277,
             "topics": [
               "3d",
               "diffusion",
@@ -560,7 +560,7 @@
             "open_issues": 3,
             "owner": "amazon-far",
             "repo": "deltatok",
-            "stars": 244,
+            "stars": 246,
             "topics": [
               "computer-vision",
               "cvpr2026",
@@ -656,7 +656,7 @@
             "open_issues": 43,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4373,
+            "stars": 4380,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -740,7 +740,7 @@
             "open_issues": 0,
             "owner": "taldatech",
             "repo": "lpwm",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "keypoints",
               "object-centric",
@@ -771,7 +771,7 @@
             "open_issues": 0,
             "owner": "solaris-wm",
             "repo": "solaris",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 42,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4408,
+            "stars": 4410,
             "topics": [
               "aigc",
               "image-to-video",
@@ -885,7 +885,7 @@
             "open_issues": 5,
             "owner": "NVlabs",
             "repo": "PointWorld",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "robot-manipulation",
               "spatial-intelligence",
@@ -910,7 +910,7 @@
             "open_issues": 30,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1591,
+            "stars": 1594,
             "topics": [
               "3d",
               "hunyuan",
@@ -939,7 +939,7 @@
             "open_issues": 7,
             "owner": "SimWorld-AI",
             "repo": "SimWorld",
-            "stars": 760,
+            "stars": 763,
             "topics": [
               "agent",
               "navigation",
@@ -986,7 +986,7 @@
             "open_issues": 8,
             "owner": "alibaba-damo-academy",
             "repo": "RynnVLA-002",
-            "stars": 1123,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 1,
             "owner": "thuml",
             "repo": "RLVR-World",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "grpo",
               "real2sim",
@@ -1090,7 +1090,7 @@
             "open_issues": 17,
             "owner": "Robert-gyj",
             "repo": "Ctrl-World",
-            "stars": 558,
+            "stars": 559,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1129,10 +1129,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-30T06:32:00Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2322,
+            "stars": 2323,
             "topics": [
               "genie",
               "interactive-video",
@@ -1189,7 +1189,7 @@
             "open_issues": 34,
             "owner": "etched-ai",
             "repo": "open-oasis",
-            "stars": 2125,
+            "stars": 2128,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:51:48.382Z",
+    "last_updated": "2026-09-03T13:51:21.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
@@ -1211,7 +1211,7 @@
       "open_issues": 0,
       "owner": "nik-55",
       "repo": "world-models",
-      "stars": 289,
+      "stars": 292,
       "topics": [
         "awesome",
         "awesome-list",
