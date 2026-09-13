@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3410,
+            "stars": 3413,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -42,11 +42,11 @@
             "id": 738046322,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-07T03:42:03Z",
+            "last_commit": "2026-09-13T10:09:52Z",
             "open_issues": 0,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2252,
+            "stars": 2254,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -78,7 +78,7 @@
             "open_issues": 1,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2009,
+            "stars": 2010,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "gracezhao1997",
             "repo": "Awesome-Video-World-Models-with-AR-Diffusion",
-            "stars": 705,
+            "stars": 706,
             "topics": [
               "ar-diffusion",
               "autoregressive",
@@ -254,7 +254,7 @@
             "open_issues": 20,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2190,
+            "stars": 2191,
             "topics": [
               "deep-learning",
               "jepa",
@@ -281,7 +281,7 @@
             "open_issues": 7,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -400,7 +400,7 @@
             "open_issues": 135,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9055,
+            "stars": 9063,
             "topics": [
               "diffusion",
               "dit",
@@ -466,7 +466,7 @@
             "open_issues": 16,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2633,
+            "stars": 2635,
             "topics": [
               "3d",
               "ai",
@@ -560,7 +560,7 @@
             "open_issues": 3,
             "owner": "amazon-far",
             "repo": "deltatok",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "computer-vision",
               "cvpr2026",
@@ -635,7 +635,7 @@
             "open_issues": 0,
             "owner": "naver-ai",
             "repo": "seoul-world-model",
-            "stars": 643,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4442,
+            "stars": 4444,
             "topics": [
               "aigc",
               "image-to-video",
@@ -861,7 +861,7 @@
             "open_issues": 8,
             "owner": "EternalEvan",
             "repo": "Astra",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "video-generation",
               "world-model"
@@ -885,7 +885,7 @@
             "open_issues": 5,
             "owner": "NVlabs",
             "repo": "PointWorld",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "robot-manipulation",
               "spatial-intelligence",
@@ -1007,7 +1007,7 @@
             "open_issues": 32,
             "owner": "baaivision",
             "repo": "Emu3.5",
-            "stars": 1555,
+            "stars": 1556,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 1,
             "owner": "World-In-World",
             "repo": "world-in-world",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:08:04.116Z",
+    "last_updated": "2026-09-13T13:52:53.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
