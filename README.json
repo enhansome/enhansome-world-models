@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "knightnemo/Awesome-World-Models",
-          "description": null,
+          "description": "knightnemo/Awesome-World-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3460,
+            "stars": 3462,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "LMD0311/Awesome-World-Model",
-          "description": null,
+          "description": "LMD0311/Awesome-World-Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "leofan90/Awesome-World-Models",
-          "description": null,
+          "description": "leofan90/Awesome-World-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,7 +78,7 @@
             "open_issues": 2,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2028,
+            "stars": 2029,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -95,7 +95,7 @@
         {
           "node_type": "item",
           "title": "worldbench/awesome-3d-4d-world-models",
-          "description": null,
+          "description": "worldbench/awesome-3d-4d-world-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -108,7 +108,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "3d",
               "3d-generation",
@@ -129,7 +129,7 @@
         {
           "node_type": "item",
           "title": "A Minimalist, Batteries-included Repository for Advancing World Model Science",
-          "description": null,
+          "description": "simchowitzlabpublic/nano-world-model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
-          "description": null,
+          "description": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "Li-Zn-H/AwesomeWorldModels",
-          "description": null,
+          "description": "Li-Zn-H/AwesomeWorldModels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "SkyworkAI",
-          "description": null,
+          "description": "SkyworkAI/Matrix-Game",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -241,7 +241,7 @@
         {
           "node_type": "item",
           "title": "Platform for reproducible world model research and evaluation",
-          "description": null,
+          "description": "galilai-group/stable-worldmodel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -250,11 +250,11 @@
             "id": 1009365699,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:51:52Z",
+            "last_commit": "2026-10-02T16:15:55Z",
             "open_issues": 30,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2234,
+            "stars": 2235,
             "topics": [
               "deep-learning",
               "jepa",
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "Unified Codebase for Advanced World Models",
-          "description": null,
+          "description": "OpenDCAI/OpenWorldLib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -303,7 +303,7 @@
         {
           "node_type": "item",
           "title": "A Minimal and Elegant Framework & Tutorial for Real-Time Interactive World Models",
-          "description": null,
+          "description": "shengshu-ai/minWM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -466,7 +466,7 @@
             "open_issues": 15,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2687,
+            "stars": 2690,
             "topics": [
               "3d",
               "ai",
@@ -512,7 +512,7 @@
             "open_issues": 25,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2506,
+            "stars": 2521,
             "topics": [
               "3d",
               "diffusion",
@@ -653,10 +653,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-26T17:22:05Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4484,
+            "stars": 4485,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4501,
+            "stars": 4504,
             "topics": [
               "aigc",
               "image-to-video",
@@ -882,7 +882,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-17T21:45:41Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "NVlabs",
             "repo": "PointWorld",
             "stars": 537,
@@ -910,7 +910,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1606,
+            "stars": 1607,
             "topics": [
               "3d",
               "hunyuan",
@@ -939,7 +939,7 @@
             "open_issues": 12,
             "owner": "SimWorld-AI",
             "repo": "SimWorld",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "agent",
               "navigation",
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:51.131Z",
+    "last_updated": "2026-10-03T05:14:27.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
@@ -1211,7 +1211,7 @@
       "open_issues": 0,
       "owner": "nik-55",
       "repo": "world-models",
-      "stars": 325,
+      "stars": 326,
       "topics": [
         "awesome",
         "awesome-list",
