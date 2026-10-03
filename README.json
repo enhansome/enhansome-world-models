@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3462,
+            "stars": 3464,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -42,11 +42,11 @@
             "id": 738046322,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-02T14:46:20Z",
+            "last_commit": "2026-10-03T10:04:23Z",
             "open_issues": 0,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2267,
+            "stars": 2268,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -78,7 +78,7 @@
             "open_issues": 2,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2029,
+            "stars": 2031,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -281,7 +281,7 @@
             "open_issues": 7,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 877,
+            "stars": 878,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -316,7 +316,7 @@
             "open_issues": 13,
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 846,
+            "stars": 847,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -512,7 +512,7 @@
             "open_issues": 25,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2521,
+            "stars": 2523,
             "topics": [
               "3d",
               "diffusion",
@@ -656,7 +656,7 @@
             "open_issues": 50,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4485,
+            "stars": 4486,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4504,
+            "stars": 4507,
             "topics": [
               "aigc",
               "image-to-video",
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:27.338Z",
+    "last_updated": "2026-10-03T14:24:52.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
