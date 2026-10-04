@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3464,
+            "stars": 3465,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -78,7 +78,7 @@
             "open_issues": 2,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2031,
+            "stars": 2032,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -203,7 +203,7 @@
             "open_issues": 4,
             "owner": "Li-Zn-H",
             "repo": "AwesomeWorldModels",
-            "stars": 365,
+            "stars": 366,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 565,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -400,7 +400,7 @@
             "open_issues": 141,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9191,
+            "stars": 9201,
             "topics": [
               "diffusion",
               "dit",
@@ -466,7 +466,7 @@
             "open_issues": 15,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2690,
+            "stars": 2691,
             "topics": [
               "3d",
               "ai",
@@ -512,7 +512,7 @@
             "open_issues": 25,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2523,
+            "stars": 2529,
             "topics": [
               "3d",
               "diffusion",
@@ -656,7 +656,7 @@
             "open_issues": 50,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4486,
+            "stars": 4485,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -986,7 +986,7 @@
             "open_issues": 8,
             "owner": "alibaba-damo-academy",
             "repo": "RynnVLA-002",
-            "stars": 1135,
+            "stars": 1136,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1090,7 +1090,7 @@
             "open_issues": 17,
             "owner": "Robert-gyj",
             "repo": "Ctrl-World",
-            "stars": 568,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:24:52.071Z",
+    "last_updated": "2026-10-04T14:58:18.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
@@ -1211,7 +1211,7 @@
       "open_issues": 0,
       "owner": "nik-55",
       "repo": "world-models",
-      "stars": 326,
+      "stars": 329,
       "topics": [
         "awesome",
         "awesome-list",
