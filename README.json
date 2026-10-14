@@ -16,10 +16,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-12T20:35:30Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -75,10 +75,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-08T10:51:34Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2037,
+            "stars": 2038,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -215,16 +215,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
-            "homepage": "https://matrix-game-v3.github.io/",
+            "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
+            "homepage": "https://matrix-game-v4-0.github.io/page/",
             "id": 978649191,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T12:49:47Z",
+            "last_commit": "2026-10-14T13:08:39Z",
             "open_issues": 35,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2351,
+            "stars": 2360,
             "topics": [
               "genie",
               "interactive-video",
@@ -254,7 +254,7 @@
             "open_issues": 35,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2255,
+            "stars": 2259,
             "topics": [
               "deep-learning",
               "jepa",
@@ -281,7 +281,7 @@
             "open_issues": 7,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 881,
+            "stars": 882,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -316,7 +316,7 @@
             "open_issues": 15,
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 852,
+            "stars": 855,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 574,
+            "stars": 575,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -397,10 +397,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T08:34:17Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9289,
+            "stars": 9301,
             "topics": [
               "diffusion",
               "dit",
@@ -466,7 +466,7 @@
             "open_issues": 15,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2729,
+            "stars": 2737,
             "topics": [
               "3d",
               "ai",
@@ -491,7 +491,7 @@
             "open_issues": 5,
             "owner": "AMAP-ML",
             "repo": "DreamX-World",
-            "stars": 781,
+            "stars": 782,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -512,7 +512,7 @@
             "open_issues": 26,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2665,
+            "stars": 2666,
             "topics": [
               "3d",
               "diffusion",
@@ -635,7 +635,7 @@
             "open_issues": 0,
             "owner": "naver-ai",
             "repo": "seoul-world-model",
-            "stars": 654,
+            "stars": 655,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -653,10 +653,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-26T17:22:05Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4524,
+            "stars": 4525,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4521,
+            "stars": 4526,
             "topics": [
               "aigc",
               "image-to-video",
@@ -910,7 +910,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1615,
+            "stars": 1618,
             "topics": [
               "3d",
               "hunyuan",
@@ -939,7 +939,7 @@
             "open_issues": 12,
             "owner": "SimWorld-AI",
             "repo": "SimWorld",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "agent",
               "navigation",
@@ -986,7 +986,7 @@
             "open_issues": 8,
             "owner": "alibaba-damo-academy",
             "repo": "RynnVLA-002",
-            "stars": 1138,
+            "stars": 1139,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1123,16 +1123,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
-            "homepage": "https://matrix-game-v3.github.io/",
+            "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
+            "homepage": "https://matrix-game-v4-0.github.io/page/",
             "id": 978649191,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T12:49:47Z",
+            "last_commit": "2026-10-14T13:08:39Z",
             "open_issues": 35,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2351,
+            "stars": 2360,
             "topics": [
               "genie",
               "interactive-video",
@@ -1189,7 +1189,7 @@
             "open_issues": 34,
             "owner": "etched-ai",
             "repo": "open-oasis",
-            "stars": 2145,
+            "stars": 2147,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:07:34.661Z",
+    "last_updated": "2026-10-14T14:39:31.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
