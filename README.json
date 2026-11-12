@@ -16,10 +16,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-09T08:29:40Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3524,
+            "stars": 3525,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -42,11 +42,11 @@
             "id": 738046322,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-11T04:28:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-12T04:35:05Z",
+            "open_issues": 1,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2302,
+            "stars": 2303,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -224,7 +224,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2901,
+            "stars": 2905,
             "topics": [
               "genie",
               "interactive-video",
@@ -254,7 +254,7 @@
             "open_issues": 55,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2300,
+            "stars": 2301,
             "topics": [
               "deep-learning",
               "jepa",
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 598,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -396,11 +396,11 @@
             "id": 871368615,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T07:19:02Z",
-            "open_issues": 146,
+            "last_commit": "2026-11-12T08:45:21Z",
+            "open_issues": 137,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9814,
+            "stars": 9824,
             "topics": [
               "diffusion",
               "dit",
@@ -466,7 +466,7 @@
             "open_issues": 17,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2851,
+            "stars": 2855,
             "topics": [
               "3d",
               "ai",
@@ -491,7 +491,7 @@
             "open_issues": 5,
             "owner": "AMAP-ML",
             "repo": "DreamX-World",
-            "stars": 787,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -512,7 +512,7 @@
             "open_issues": 29,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2870,
+            "stars": 2871,
             "topics": [
               "3d",
               "diffusion",
@@ -560,7 +560,7 @@
             "open_issues": 3,
             "owner": "amazon-far",
             "repo": "deltatok",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "computer-vision",
               "cvpr2026",
@@ -635,7 +635,7 @@
             "open_issues": 0,
             "owner": "naver-ai",
             "repo": "seoul-world-model",
-            "stars": 666,
+            "stars": 668,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -656,7 +656,7 @@
             "open_issues": 55,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4628,
+            "stars": 4634,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2901,
+            "stars": 2905,
             "topics": [
               "genie",
               "interactive-video",
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:26:42.424Z",
+    "last_updated": "2026-11-12T17:43:55.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
