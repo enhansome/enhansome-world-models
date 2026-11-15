@@ -15,8 +15,8 @@
             "id": 1087207313,
             "language": null,
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T08:29:40Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-15T15:56:26Z",
+            "open_issues": 0,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
             "stars": 3526,
@@ -199,11 +199,11 @@
             "id": 963308889,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-20T16:42:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-15T06:20:59Z",
+            "open_issues": 0,
             "owner": "Li-Zn-H",
             "repo": "AwesomeWorldModels",
-            "stars": 374,
+            "stars": 375,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -224,7 +224,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2917,
+            "stars": 2921,
             "topics": [
               "genie",
               "interactive-video",
@@ -281,7 +281,7 @@
             "open_issues": 6,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 599,
+            "stars": 600,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -400,7 +400,7 @@
             "open_issues": 137,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9825,
+            "stars": 9837,
             "topics": [
               "diffusion",
               "dit",
@@ -466,7 +466,7 @@
             "open_issues": 17,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2859,
+            "stars": 2861,
             "topics": [
               "3d",
               "ai",
@@ -491,7 +491,7 @@
             "open_issues": 5,
             "owner": "AMAP-ML",
             "repo": "DreamX-World",
-            "stars": 789,
+            "stars": 790,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -512,7 +512,7 @@
             "open_issues": 29,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2877,
+            "stars": 2879,
             "topics": [
               "3d",
               "diffusion",
@@ -656,7 +656,7 @@
             "open_issues": 55,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4638,
+            "stars": 4640,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4579,
+            "stars": 4581,
             "topics": [
               "aigc",
               "image-to-video",
@@ -910,7 +910,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "3d",
               "hunyuan",
@@ -939,7 +939,7 @@
             "open_issues": 12,
             "owner": "SimWorld-AI",
             "repo": "SimWorld",
-            "stars": 815,
+            "stars": 816,
             "topics": [
               "agent",
               "navigation",
@@ -1132,7 +1132,7 @@
             "open_issues": 44,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2917,
+            "stars": 2921,
             "topics": [
               "genie",
               "interactive-video",
@@ -1162,7 +1162,7 @@
             "open_issues": 18,
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "image-to-video",
               "interactive-generation",
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:05:39.633Z",
+    "last_updated": "2026-11-15T16:34:45.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
