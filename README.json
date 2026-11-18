@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3533,
+            "stars": 3536,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2304,
+            "stars": 2305,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -78,7 +78,7 @@
             "open_issues": 2,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2058,
+            "stars": 2060,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -142,7 +142,7 @@
             "open_issues": 1,
             "owner": "simchowitzlabpublic",
             "repo": "nano-world-model",
-            "stars": 772,
+            "stars": 773,
             "topics": [
               "diffusion-forcing",
               "diffusion-models",
@@ -224,7 +224,7 @@
             "open_issues": 45,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2935,
+            "stars": 2939,
             "topics": [
               "genie",
               "interactive-video",
@@ -254,7 +254,7 @@
             "open_issues": 56,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2309,
+            "stars": 2310,
             "topics": [
               "deep-learning",
               "jepa",
@@ -281,7 +281,7 @@
             "open_issues": 6,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -397,10 +397,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T15:51:56Z",
-            "open_issues": 139,
+            "open_issues": 140,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9846,
+            "stars": 9854,
             "topics": [
               "diffusion",
               "dit",
@@ -463,10 +463,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-12T16:15:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2870,
+            "stars": 2880,
             "topics": [
               "3d",
               "ai",
@@ -512,7 +512,7 @@
             "open_issues": 29,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2882,
+            "stars": 2883,
             "topics": [
               "3d",
               "diffusion",
@@ -656,7 +656,7 @@
             "open_issues": 56,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4645,
+            "stars": 4650,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +834,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4585,
+            "stars": 4589,
             "topics": [
               "aigc",
               "image-to-video",
@@ -885,7 +885,7 @@
             "open_issues": 7,
             "owner": "NVlabs",
             "repo": "PointWorld",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "robot-manipulation",
               "spatial-intelligence",
@@ -910,7 +910,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1629,
+            "stars": 1630,
             "topics": [
               "3d",
               "hunyuan",
@@ -1132,7 +1132,7 @@
             "open_issues": 45,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2935,
+            "stars": 2939,
             "topics": [
               "genie",
               "interactive-video",
@@ -1178,7 +1178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:44:38.484Z",
+    "last_updated": "2026-11-18T18:22:44.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
@@ -1190,7 +1190,7 @@
       "open_issues": 0,
       "owner": "nik-55",
       "repo": "world-models",
-      "stars": 345,
+      "stars": 348,
       "topics": [
         "awesome",
         "awesome-list",
