@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3544,
+            "stars": 3543,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -46,7 +46,7 @@
             "open_issues": 0,
             "owner": "LMD0311",
             "repo": "Awesome-World-Model",
-            "stars": 2306,
+            "stars": 2307,
             "topics": [
               "artificial-intelligence",
               "artificial-intelligence-algorithms",
@@ -78,7 +78,7 @@
             "open_issues": 3,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2059,
+            "stars": 2061,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -105,7 +105,7 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T00:53:21Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
             "stars": 1033,
@@ -224,7 +224,7 @@
             "open_issues": 46,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2958,
+            "stars": 2970,
             "topics": [
               "genie",
               "interactive-video",
@@ -254,7 +254,7 @@
             "open_issues": 57,
             "owner": "galilai-group",
             "repo": "stable-worldmodel",
-            "stars": 2317,
+            "stars": 2322,
             "topics": [
               "deep-learning",
               "jepa",
@@ -316,7 +316,7 @@
             "open_issues": 15,
             "owner": "shengshu-ai",
             "repo": "minWM",
-            "stars": 875,
+            "stars": 876,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "mira-wm",
             "repo": "mira",
-            "stars": 602,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -391,16 +391,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling",
+            "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics ",
             "homepage": "https://nvlabs.github.io/Sana/docs/",
             "id": 871368615,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T03:33:15Z",
-            "open_issues": 146,
+            "last_commit": "2026-11-23T17:11:30Z",
+            "open_issues": 145,
             "owner": "NVlabs",
             "repo": "Sana",
-            "stars": 9866,
+            "stars": 9871,
             "topics": [
               "diffusion",
               "dit",
@@ -408,6 +408,7 @@
               "nvfp4",
               "pytorch",
               "reinforcement-learning",
+              "robotics",
               "sana",
               "streaming-video",
               "system-algorithm-deisgn",
@@ -466,7 +467,7 @@
             "open_issues": 17,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-World-2.0",
-            "stars": 2905,
+            "stars": 2907,
             "topics": [
               "3d",
               "ai",
@@ -512,7 +513,7 @@
             "open_issues": 29,
             "owner": "nv-tlabs",
             "repo": "lyra",
-            "stars": 2888,
+            "stars": 2892,
             "topics": [
               "3d",
               "diffusion",
@@ -629,13 +630,13 @@
             "description": "Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis",
             "homepage": null,
             "id": 1183042183,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-03-17T03:52:08Z",
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-23T05:11:54Z",
             "open_issues": 0,
             "owner": "naver-ai",
             "repo": "seoul-world-model",
-            "stars": 669,
+            "stars": 698,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -656,7 +657,7 @@
             "open_issues": 55,
             "owner": "lucas-maes",
             "repo": "le-wm",
-            "stars": 4657,
+            "stars": 4664,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:18.115Z"
@@ -834,7 +835,7 @@
             "open_issues": 42,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4593,
+            "stars": 4595,
             "topics": [
               "aigc",
               "image-to-video",
@@ -910,7 +911,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1630,
+            "stars": 1633,
             "topics": [
               "3d",
               "hunyuan",
@@ -939,7 +940,7 @@
             "open_issues": 12,
             "owner": "SimWorld-AI",
             "repo": "SimWorld",
-            "stars": 819,
+            "stars": 820,
             "topics": [
               "agent",
               "navigation",
@@ -1132,7 +1133,7 @@
             "open_issues": 46,
             "owner": "SkyworkAI",
             "repo": "Matrix-Game",
-            "stars": 2958,
+            "stars": 2970,
             "topics": [
               "genie",
               "interactive-video",
@@ -1162,7 +1163,7 @@
             "open_issues": 18,
             "owner": "stdstu12",
             "repo": "YUME",
-            "stars": 687,
+            "stars": 689,
             "topics": [
               "image-to-video",
               "interactive-generation",
@@ -1178,7 +1179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:22:24.901Z",
+    "last_updated": "2026-11-23T21:39:25.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of research and projects on world models",
@@ -1190,7 +1191,7 @@
       "open_issues": 0,
       "owner": "nik-55",
       "repo": "world-models",
-      "stars": 348,
+      "stars": 349,
       "topics": [
         "awesome",
         "awesome-list",
